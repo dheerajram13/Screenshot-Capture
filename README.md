@@ -1,2 +1,2 @@
-# Screenshot-Capture
-This is a Desktop application implemented using pyautogui and tkinter modules in python. 
+# Screenshot-Capture App
+This is a desktop application implemented using pyautogui and tkinter modules in python to take screen shots and saving the image with the user defined formats.
